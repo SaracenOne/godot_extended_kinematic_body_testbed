@@ -1,0 +1,2 @@
+This is an experimental repository for the express purpose of testing for bugs in my extended_kinematic_body addon (https://github.com/SaracenOne/extended_kinematic_body) for Godot.
+Currently only runs on a bleeding edge build.
